@@ -12,4 +12,4 @@
                      run the command:
                      python setup.py install
     
-    3. No tested with captcha.
+    3. Not tested with captcha.
